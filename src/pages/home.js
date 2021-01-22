@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import IntroOverlay from "../components/introOverlay";
-import Banner from "../components/banner";
-import Cases from "../components/cases";
+import IntroOverlay from "../components/IntroOverlay";
+import Banner from "../components/Banner";
+import Cases from "../components/Cases";
 import gsap from "gsap";
 
 let tl = gsap.timeline();

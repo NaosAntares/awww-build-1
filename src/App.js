@@ -2,8 +2,8 @@ import React, { useEffect } from "react";
 import { Route } from "react-router-dom";
 import { gsap } from "gsap";
 import "./styles/App.scss";
-import Header from "./components/header";
-import Navigation from "./components/navigation";
+import Header from "./components/Header";
+import Navigation from "./components/Navigation";
 
 import CaseStudies from "./pages/caseStudies";
 import Approach from "./pages/approach";
